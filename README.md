@@ -14,14 +14,28 @@ To use this calculator, you can simply open the live demo link provided below in
 - The 'AC' button clears the input.
 - The 'DEL' button deletes the last character.
 
+## Getting Started
+
+To get a local copy of the project up and running, follow these steps:
+
+1. Clone this repository:
+
+    ```bash
+    git clone https://github.com/GKrizz/CODSOFT_WB_Level1_Task3_CALCULATOR.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd CODSOFT_WB_Level1_Task3_CALCULATOR
+    ```
+
+3. Open the `index.html` file in your web browser.
+
 ## Live Demo
 
 You can try out the live demo of the calculator app [here](https://gkrizz.github.io/CODSOFT_WB_Level1_Task3_CALCULATOR/).
 
-## Author
+## Acknowledgements
 
-- [Gobala Krishnan](https://github.com/GKrizz)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project was completed as part of the CodSoft Internship Program. Special thanks to CodSoft for providing this opportunity.
